@@ -5,6 +5,9 @@ The **Smart Pricing Analytics Tool** is designed to assist pricing teams in anal
 
 The tool is developed using Java Swing and follows an agile, modular architecture, providing an intuitive user interface for the pricing team to make informed decisions. The key objective is to simulate the impact of pricing adjustments on company profitability based on sales performance, market trends, and customer behavior.
 
+## Architecture Diagram
+<img width="1060" height="814" alt="Screenshot 2025-08-29 181146" src="https://github.com/user-attachments/assets/2a0bb7da-fdd4-4dd1-a7b8-fdf2b2f6d9a9" />
+
 ## Features
 - **Browse Product Price Performance**: Analyze price performance of products within the supplier catalog.
 - **Adjust Target Prices**: Lower the target prices for underperforming products and increase them for those exceeding sales targets.
