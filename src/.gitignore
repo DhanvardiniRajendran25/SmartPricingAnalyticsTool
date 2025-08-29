@@ -1,0 +1,6 @@
+
+# Ignore all compiled class files
+*.class
+# Ignore the target directory (commonly used by Maven and Gradle)
+target/
+.DS_Store
