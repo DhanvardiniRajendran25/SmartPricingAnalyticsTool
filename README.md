@@ -1,4 +1,4 @@
-# Smart Pricing Analytics Tool
+# Dynamic Price Performance Simulator - A Java-Based Platform for Target Price Optimization and Profitability Analysis
 
 ## Overview
 The **Smart Pricing Analytics Tool** is designed to assist pricing teams in analyzing and adjusting target prices for products to maximize profitability and ensure competitiveness. This tool simulates the impact of price adjustments on sales revenue, providing actionable insights for strategic pricing decisions.
